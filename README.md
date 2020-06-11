@@ -1,0 +1,1 @@
+# aspnetcore-healthchecks-sample
